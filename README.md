@@ -1,4 +1,7 @@
-This is the README file for our final year project on `Collabortive Code Editor along with ChatGPT integration`
+This is the README file for our final year project on `Collabortive Code Editor along with ChatGPT integration`, This project presents a cutting-edge collaborative code editor integrated with ChatGPT, designed to enhance coding efficiency and teamwork. It combines the power of real-time code collaboration with the advanced capabilities of ChatGPT, offering a unique platform for developers.
+
+## Link to the project 
+https://github.com/Rishit30G/Final_Project_CC_Editor
 
 ## Installation 🚀
 1. Clone the repository
@@ -46,5 +49,4 @@ This is the README file for our final year project on `Collabortive Code Editor 
 
 ### ChatGPT Integration
 [![Screenshot-2023-12-05-111837.png](https://i.postimg.cc/CKbc4dMB/Screenshot-2023-12-05-111837.png)](https://postimg.cc/jWd6xx7t)
-
 
